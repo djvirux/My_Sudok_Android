@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Sudok</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_back">🔙 Back</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_hint_3">💡💡💡</string>
+    <string name="btn_hint_2">💡💡</string>
+    <string name="btn_hint_1">💡</string>
+    <string name="btn_hint_0">No Hint</string>
+    <string name="btn_finish">✅ End</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_count">WIN: 0 LOSS: 0</string>
+    <string name="btn_new">New</string>
+    <string name="btn_tablero">b</string>
+    <string name="btn_count_up">"WIN: %s LOSS: %s"</string>
+    <string name="future_upgrade">"Future upgrade"</string>
+</resources>
