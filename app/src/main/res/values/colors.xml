@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~ *Created by VrX on 6/9/23 20:49
+  ~ *Copyright (c) 2023
+  ~ *Last modified 23/8/23 20:21
+  ~ */
+  -->
+
 <resources>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>

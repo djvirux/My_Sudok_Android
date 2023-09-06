@@ -1,3 +1,11 @@
+<!--
+  ~ /**
+  ~ *Created by VrX on 6/9/23 20:49
+  ~ *Copyright (c) 2023
+  ~ *Last modified 5/9/23 21:56
+  ~ */
+  -->
+
 <resources>
     <string name="app_name">My Sudok</string>
     <string name="btn_1">1</string>
@@ -21,4 +29,11 @@
     <string name="btn_tablero">b</string>
     <string name="btn_count_up">"WIN: %s LOSS: %s"</string>
     <string name="future_upgrade">"Future upgrade"</string>
+    <string name="btnhigh">HIGH</string>
+    <string name="btnhighplus">HIGH+</string>
+    <string name="btnlevel">Select Level</string>
+    <string name="btnmediumplus">MEDIUM+</string>
+    <string name="btnmedium">MEDIUM</string>
+    <string name="btnlowplus">LOW+</string>
+    <string name="btnlow">LOW</string>
 </resources>

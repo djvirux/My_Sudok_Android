@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<MotionScene 
+<!--
+  ~ /**
+  ~ *Created by VrX on 6/9/23 20:49
+  ~ *Copyright (c) 2023
+  ~ *Last modified 17/8/23 22:03
+  ~ */
+  -->
+
+<MotionScene
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:motion="http://schemas.android.com/apk/res-auto">
 

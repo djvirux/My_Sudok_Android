@@ -1,3 +1,11 @@
+/*
+ * *
+ * Created by VrX on 6/9/23 20:49
+ * Copyright (c) 2023
+ * Last modified 20/8/23 21:47
+ * /
+ */
+
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")

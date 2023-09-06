@@ -1,3 +1,11 @@
+/*
+ * *
+ * Created by VrX on 6/9/23 20:49
+ * Copyright (c) 2023
+ * Last modified 17/8/23 21:53
+ * /
+ */
+
 package com.example.mysudok
 
 import org.junit.Test
