@@ -1,7 +1,7 @@
 # 🔢 SUDOKU en Android Studio Giraffe con Kotlin VrX
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-17.0.6-blue.svg?longCache=true&style=popout-square)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.4.3-orange.svg?longCache=true&style=popout-square)]()
-[![Android](https://img.shields.io/badge/Android-26_33-lightgray.svg?longCache=true&style=popout-square)]()
+[![Android](https://img.shields.io/badge/Android-26_to_33-lightgray.svg?longCache=true&style=popout-square)]()
 
 **`¡BIENVENIDA! 👋🏼`**
 
